@@ -1,13 +1,4 @@
 {
-  "version": "1.0.2",
-  "apk": "https://github.com/qibingdengbeipo/fjmu-timetable/releases/download/v1.0.2/fjmu-timetable-1.0.2.apk",
-  "notes": "1.0.2：修复公告与更新提示叠在一起（改为排队逐个弹），弹窗按钮统一为「确定」，备忘录只显示在日程页。",
-  "announcement": {
-    "id": "2026-10-30-local-anatomy-stop",
-    "text": "下周一局部解剖学停课一次"
-  }
-}
-{
   "version": "1.0.3",
   "apk": "https://github.com/qibingdengbeipo/fjmu-timetable/releases/download/v1.0.3/fjmu-timetable-1.0.3.apk",
   "notes": "1.0.3：新增教师联系方式导入——课程详情显示教师邮箱/电话，可直接拨打或发邮件；修复教学内容字段（eduContentDetail），详情栏新增教研室。",
