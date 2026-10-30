@@ -7,3 +7,12 @@
     "text": "下周一局部解剖学停课一次"
   }
 }
+{
+  "version": "1.0.3",
+  "apk": "https://github.com/qibingdengbeipo/fjmu-timetable/releases/download/v1.0.3/fjmu-timetable-1.0.3.apk",
+  "notes": "1.0.3：新增教师联系方式导入——课程详情显示教师邮箱/电话，可直接拨打或发邮件；修复教学内容字段（eduContentDetail），详情栏新增教研室。",
+  "announcement": {
+    "id": "2026-10-30-teacher-contact",
+    "text": "已支持导入教师联系方式：点开课程详情即可查看老师邮箱与电话。"
+  }
+}
