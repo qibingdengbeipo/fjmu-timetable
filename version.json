@@ -1,7 +1,7 @@
 {
-  "version": "1.0.0",
-  "apk": "",
-  "notes": "首个公开版本：课表导入（ics/PDF/课程表文件夹/教务平台 JSON）、日程与考试倒计时、备忘录、系统通知。",
+  "version": "1.0.1",
+  "apk": "https://github.com/qibingdengbeipo/fjmu-timetable/releases/download/v1.0.1/fjmu-timetable-1.0.1.apk",
+  "notes": "1.0.1：备忘录按钮只在日程页、课程详情始终显示教学内容、弹窗按钮改为「确定」。",
   "announcement": {
     "id": "2026-10-30-local-anatomy-stop",
     "text": "下周一局部解剖学停课一次"
